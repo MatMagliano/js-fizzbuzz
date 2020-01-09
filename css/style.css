@@ -1,3 +1,17 @@
+body {
+  font-family: 'Oswald';
+  background-color: #1C2833;
+}
+.liste {
+  display: flex;
+  justify-content: space-around;
+}
+.lista_for h2,
+.lista_while h2 {
+  color: #CD5C5C;
+}
 .list_style {
   list-style: none;
+  color: #FBFCFC;
+
 }
